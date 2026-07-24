@@ -18,5 +18,3 @@ Builder of practical AI tooling — personal AI infrastructure, quant/finance ex
 
 - Exploring agentic AI workflows and LLM internals
 - Quantitative market analysis with Python + uv
-
-📫 Reach me: kiran.eshwarappa@gmail.com
