@@ -2,8 +2,10 @@
 
 Builder of practical AI tooling — personal AI infrastructure, quant/finance experiments, and developer experience tools.
 
-[![u8views profile views](https://u8views.com/api/v1/github/profiles/1127528/views/day-week-month-total-count.svg)](https://u8views.com/github/kiriz)
 ![Profile views](https://komarev.com/ghpvc/?username=kiriz&color=blue&abbreviated=true)
+<!-- Uncomment after signing in at https://u8views.com/login/github (registers your profile):
+[![u8views profile views](https://u8views.com/api/v1/github/profiles/1127528/views/day-week-month-total-count.svg)](https://u8views.com/github/kiriz)
+-->
 
 ## Things I've built
 
