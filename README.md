@@ -1,4 +1,4 @@
-# Hi, I'm Kiran 👋
+# Hi, I'm Kiran
 
 Builder of practical AI tooling — personal AI infrastructure, quant/finance experiments, and developer experience tools.
 
@@ -7,11 +7,9 @@ Builder of practical AI tooling — personal AI infrastructure, quant/finance ex
 ## Things I've built
 
 - [factwatch](https://github.com/kiriz/factwatch) — facts verified by humans, kept current by AI
-- [gitlogue](https://github.com/kiriz/gitlogue) — cinematic Git commit replay for the terminal
 - [kiri-ux](https://github.com/kiriz/kiri-ux) — token-driven, dark-mode-first design system
 - [av-tools](https://github.com/kiriz/av-tools) — personal audio/video processing tools
 
 ## Currently
 
 - Exploring agentic AI workflows and LLM internals
-- Quantitative market analysis with Python + uv
