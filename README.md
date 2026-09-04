@@ -3,7 +3,7 @@
 Builder of practical AI tooling — personal AI infrastructure,
 quant/finance experiments, and developer-experience tools.
 
-<samp>HOME</samp>&nbsp;&nbsp;[kiran.eshwarappa.com](http://kiran.eshwarappa.com) — *under construction*
+<samp>HOME</samp>&nbsp;&nbsp;[kiran.eshwarappa.com](http://kiran.eshwarappa.com)
 
 ---
 
