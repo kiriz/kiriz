@@ -5,6 +5,8 @@ quant/finance experiments, and developer-experience tools.
 
 <samp>HOME</samp>&nbsp;&nbsp;[kiran.eshwarappa.com](http://kiran.eshwarappa.com)
 
+[Postgraduate Program in AI Agents for Business Applications](https://www.mygreatlearning.com/eportfolio/kiran-eshwarappa)
+
 ---
 
 <samp>PROJECTS · ORDERED BY RECENT ACTIVITY</samp>
